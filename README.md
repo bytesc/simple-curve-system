@@ -2,7 +2,7 @@
 
 基于 JavaSwing 的简单动态曲线系统：在图形界面 (GUI) 上动态绘制几种自左至右移动的简单曲线，同时动态显示对应坐标值。运用多线程，泛型同步技术，实现曲线动态同步绘制，曲线绘制与对应坐标数值的同步显示。曲线绘制的用户自主切换，启停，重置。
 
-[个人网站：www.bytesc.club](http://www.bytesc.club)
+[个人网站：www.bytesc.top](http://www.bytesc.top)
 
 ## 功能介绍
 
